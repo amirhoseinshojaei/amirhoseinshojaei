@@ -6,7 +6,7 @@ I'm a passionate backend developer based in Tehran, Iran. I have a strong affini
 
 - **Programming Languages:** Python
 - **Web Frameworks:** Django
-- **API:**RestFrameWork
+- **API:** RestFrameWork
 - **Operating Systems:** Linux
 - **Certification:** Network+
 
