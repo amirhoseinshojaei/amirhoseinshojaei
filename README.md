@@ -20,7 +20,7 @@ Feel free to reach out if you want to collaborate on projects, share knowledge, 
 
 - GitHub: [amirhoseinshojaei](https://github.com/amirhoseinshojaei)
 - LinkedIn: [Amir Hosein Shojaei](https://www.linkedin.com/in/amirhoseinshojaei/)
-- Email: [python24amir23@gmail.com]
+- Email: [amirhoseinshojaeibu80@gmail.com]
 
 
 ## 🚀 Fun Facts
