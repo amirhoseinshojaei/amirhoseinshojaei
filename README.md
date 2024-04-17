@@ -8,7 +8,7 @@ I'm a passionate backend developer based in Tehran, Iran. I have a strong affini
 - **Web Frameworks:** Django
 - **API:** RestFrameWork
 - **Operating Systems:** Linux
-- **Certification:** Network+
+
 
 ## 🌱 Currently Learning
 
