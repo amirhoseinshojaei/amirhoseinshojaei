@@ -39,7 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,pycharm,ubuntu,postman,stackoverflow,gitlab,docker" />
     <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,sqlite,selenium,rabbitmq,heroku,fastapi,bash" /><br>
-    <img src="https://img.icons8.com/?size=80&id=4jPFChei3uGs&format=png"/>
+    <img src="https://imgs.search.brave.com/KRYrQvCH4EGLTvjtu8vEl27EB_MxkwBsNwS2qN-qIc0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzIwODg5ODEucG5n"/>
 </div>
 
 <br/>
