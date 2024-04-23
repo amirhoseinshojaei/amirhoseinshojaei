@@ -1,4 +1,4 @@
-<img align="center" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F1qa9CGDeuEN2w%2Fgiphy.gif&f=1&nofb=1&ipt=3ef7a92a68cf42499d18ac2c2618a23047f51101d5f6f857025e7a1ae83f60b4&ipo=images" />
+<img align="center" src="https://miro.medium.com/max/2560/1*-KlOGKrl0EJsPWncAZ6FiQ.gif" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amirhosein+Shojaei!;" />
