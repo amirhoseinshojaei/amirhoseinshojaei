@@ -1,4 +1,4 @@
-<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgifs%3Fo%3Ddesc%26s%3Dupdated&psig=AOvVaw36TxsxFM8pZmjLR5gje1mr&ust=1715259799583000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCNC5g-uO_oUDFQAAAAAdAAAAABAE" />
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FCyberpunk%2Fcomments%2F17orhba%2Fcoding_by_pixel_jeff%2F&psig=AOvVaw0TpfPTzxP3JNgp12Kn796x&ust=1715259950817000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCMC7tLOP_oUDFQAAAAAdAAAAABAE" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Amirhosein+Shojaei!;" />
