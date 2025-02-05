@@ -14,13 +14,13 @@
  
  🌱 I’m currently learning **I'm currently expanding my knowledge in various field of technology to enhance my skill set and contribute to exciting projects**
 
-💬 Ask me about **Python, DataAnalyst ,Django, RestFramework Api... or anything [here](https://github.com/amirhoseinshojaei/amirhoseinshojaei/issues)**
+💬 Ask me about **Python, Data Analysis, SQL, Django, FastAPI, Rest API, Web Scraping, or anything [here](https://github.com/amirhoseinshojaei/amirhoseinshojaei/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
- </div>
+</div>
 
- <div align="center"> 
+<div align="center"> 
   <a href="mailto:amirhoseinshojaeibu80@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -33,24 +33,18 @@
 </div>
 
 <hr/>
- 
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git,pycharm,ubuntu,postman,stackoverflow,gitlab,docker" />
-    <img src="https://skillicons.dev/icons?i=python,django,mysql,postgres,sqlite,selenium,rabbitmq,heroku,fastapi,bash" /><br>
-    <img src="https://imgs.search.brave.com/KRYrQvCH4EGLTvjtu8vEl27EB_MxkwBsNwS2qN-qIc0/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzIwODg5ODEucG5n"/>
+    <img src="https://skillicons.dev/icons?i=python,requests,pandas,numpy,matplotlib,seaborn,selenium,beautifulsoup,webscraping,django,fastapi,restapi,sql,sqlserver,mysql,postgresql,excel,tableau,powerbi" />
 </div>
 
 <br/>
 <hr/>
 
-
-
 <br/><br/>
 
 <hr/>
-
-<br/>
 
 
