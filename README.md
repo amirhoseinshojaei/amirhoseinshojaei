@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **I'm currently expanding my knowledge in various field of technology to enhance my skill set and contribute to exciting projects**
 
-💬 Ask me about **Python, Data Analysis, SQL, Django, FastAPI, Rest API, Web Scraping, or anything [here](https://github.com/amirhoseinshojaei/amirhoseinshojaei/issues)**
+💬 Ask me about **Python, Data Analysis, SQL, Pandas, Numpy, Selenium, Web Scraping, or anything [here](https://github.com/amirhoseinshojaei/amirhoseinshojaei/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
